@@ -16,6 +16,7 @@
         <StaticText name="Заполнение заявки" locator="//*[text()='Заполнение заявки']" isLoaded="true"/>
         <TextInput name="Имя"/>
         <TextInput name="Фамилия"/>
+        <TextInput name="Телефон"/>
         <TextInput name="Отчество"/>
         <TextInput name="E-mail"/>
         <TextInput name="Дата рождения"/>
